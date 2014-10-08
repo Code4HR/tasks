@@ -9,3 +9,4 @@ Use labels to indicate what kind of skills are needed for the task, ex.: Coding,
 
 ###Example
 
+![Example Task](example.png "Example Task")
